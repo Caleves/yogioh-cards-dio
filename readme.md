@@ -1,4 +1,4 @@
-# Yu-Gi-Oh! - Jo-Ken-Po
+# Yu-Gi-Oh cards
 Projeto feito mediante autoria da DIO, com professor FILIPÃO.
 bootcamp
 
