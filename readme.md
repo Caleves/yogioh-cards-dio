@@ -1,6 +1,5 @@
 # Yu-Gi-Oh cards
-Projeto feito mediante autoria da DIO, com professor FILIPÃO.
-bootcamp
+Projeto feito mediante autoria da DIO, com o professor Felipe.
 
 ## ✅ Objetivo
 
